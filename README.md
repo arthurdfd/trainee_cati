@@ -1,3 +1,3 @@
 # Projeto Trainee CATI Jr. Dados
 
-Repositório criado para consolidar e apresentar os aprendizados adquiridos durante o programa de Trainee da pasta de Dados do processo seletivo da Empresa Júnior CATI.
+Repositório criado para documentar e apresentar todas as entregas, códigos e aprendizados práticos desenvolvidos ao longo das 8 semanas do programa de Trainee de Dados da Empresa Júnior CATI.
