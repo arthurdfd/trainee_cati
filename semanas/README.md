@@ -11,10 +11,10 @@ Cada subpasta representa uma semana específico do cronograma, contendo os respe
 - [x] **[Semana 1: Fundamentos de Python e Git](./semana-01-python/)** 
     - *Entrega:* Scripts estruturados em Python, consolidando a lógica de programação e estruturas de dados.
 - [x] **[Semana 2: Banco de Dados (SQL) & NumPy/Pandas](./semana-02-sql/)** 
-    - *Entrega:* Certificado oficial de conclusão do curso prático de 10 horas do *LearnSQL* e scripts iniciais de manipulação de dados.
+    - *Entrega:* Certificado oficial de conclusão do curso prático de 10 horas do *LearnSQL*.
 
 - [ ] **Semana 3: Estatística e Probabilidade** 
-  - *Entrega:* Jupyter Notebook aplicando testes de hipótese e métricas de dispersão/estatística descritiva em um dataset de escolha.
+  - *Entrega:* Notebook aplicando testes de hipótese e métricas de dispersão/estatística descritiva em um dataset de escolha.
 - [ ] **Semana 4: Análise Exploratória de Dados (EDA)**
   - *Entrega:* Fluxo completo de tratamento, limpeza e análise de dados (*Data Cleansing* & EDA).
 
@@ -26,4 +26,4 @@ Cada subpasta representa uma semana específico do cronograma, contendo os respe
 - [ ] **Semana 7: Visualização e Dashboards Interativos (Streamlit)**
   - *Entrega:* Construção e publicação de uma aplicação web interativa para apresentação dos insights gerados.
 - [ ] **Semana 8: Apresentação Final**
-  - *Entrega:* Demonstração técnica do projeto consolidado perante a banca de avaliadores.
+  - *Entrega:* Apresentação final do projeto.
